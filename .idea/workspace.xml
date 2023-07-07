@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a3e5fb2-bed3-4399-b8ff-9702ec702273" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Array/CountInversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Backtracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/KhansTopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/ShortestPathBreathFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Tarjans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/AdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/AdjacencyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/BijectedUnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/RemoveIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/AVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/RedBlack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/TreeNodeQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/Trees/TrieAttempt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Graphs/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/CharListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Queues/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Queues/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Stacks/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Stacks/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalReview/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalReview/UnionFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/BuySellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/IsBalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/QueueUsingStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/SumOfTwoValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Easy/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Hard/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Medium/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Medium/KthLargestAlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Medium/KthLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Medium/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leet/Medium/MinPenaltyForShop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L9sFFQdUbmW41ynORH52BZ9INn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DataStructures.Trees" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3e5fb2-bed3-4399-b8ff-9702ec702273" name="Changes" comment="" />
+      <created>1675294527807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675294527807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Medium.ListNode" memberName="previous" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
